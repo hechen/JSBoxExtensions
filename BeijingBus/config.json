@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "types" : 15,
+    "author" : "chen",
+    "website" : "https://github.com/hechen",
+    "name" : "BeijingBus",
+    "url" : "",
+    "version" : "0.1"
+  },
+  "settings" : {
+    "minOSVer" : "10.0.0",
+    "minSDKVer" : "1.0.0",
+    "rotateDisabled" : false,
+    "autoKeyboardEnabled" : false,
+    "keyboardToolbarEnabled" : false,
+    "idleTimerDisabled" : false
+  }
+}
