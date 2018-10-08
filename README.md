@@ -19,3 +19,9 @@
 
 
 
+## Share Pocketcast to DayOne
+
+Pocketcast 自带分享功能到 Dayone 只有 Link。 该 Extension 丰富下分享内容。
+
+
+![Send Pocketcast To DayOne](https://github.com/hechen/JSBoxExtensions/blob/master/.assets/SendPocketToDayOne.gif)
