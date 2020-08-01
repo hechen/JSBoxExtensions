@@ -26,3 +26,8 @@
 ![Send Castro To DayOne](https://github.com/hechen/JSBoxExtensions/blob/master/.assets/SendCastroToDayOne.gif)
 
 ![Send Overcast To DayOne](https://github.com/hechen/JSBoxExtensions/blob/master/.assets/SendOvercastToDayOne.gif)
+
+
+## Download wallpaper on https://wallpaper.dog
+
+[下载 wallpaper.dog.downloader](https://xteko.com/redir?name=wallpaper.dog.downloader&url=https://raw.githubusercontent.com/hechen/JSBoxExtensions/master/Extensions/wallpaper.dog.downloader.js&icon=icon_014.png&types=app,action)
